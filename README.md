@@ -2,4 +2,6 @@
 
 ## Проекты: 
 
-- qwerty-la-la.ru,http://qwerty-la-la.ru/berlingo.html - лэндинги компании. Полная верстка десктоп версии + адаптив.
+Лендинги компании(десктоп + адаптив под мобильные устройства)
+- http://qwerty-la-la.ru/berlingo.html 
+- [http://qwerty-la-la.ru/berlingo.html](http://qwerty-la-la.ru/berlingo-smm.html)
